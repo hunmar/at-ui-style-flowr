@@ -1,12 +1,13 @@
 {
-  "name": "at-ui-style",
+  "name": "at-ui-style-flowr",
   "version": "1.5.1",
   "description": "The StyleSheet for AT-UI",
   "scss": "src/index.scss",
   "main": "css/at.css",
   "style": "css/at.css",
   "scripts": {
-    "build": "npm run build-clean && npm run copy && npm run build-scss && npm run build-scss-minify && npm run build-autoprefix",
+    "build-old": "npm run build-clean && npm run copy && npm run build-scss && npm run build-scss-minify && npm run build-autoprefix",
+    "build": "npm run build-clean && npm run copy && npm run build-scss && npm run build-scss-minify",
     "build-clean": "rimraf css",
     "build-scss": "node-sass --output-style expanded --source-map true src/index.scss css/at.css",
     "build-scss-minify": "node-sass --output-style compressed --source-map true src/index.scss css/at.min.css",
@@ -17,12 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:o2team/at-ui-style.git"
+    "url": "git@github.com:hunmar/at-ui-style-flowr.git"
   },
   "keywords": [
     "at",
     "at-ui",
     "at-ui-style",
+    "at-ui-style-flowr",
     "css",
     "scss",
     "framework"

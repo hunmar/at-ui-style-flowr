@@ -13,23 +13,22 @@
 ## Install
 
 ```bash
-npm install at-ui-style
+npm install at-ui-style-flowr
 ```
 
 ## Usage
 
 ```js
-import 'at-ui-style'
+import "at-ui-style-flowr";
 ```
 
 ## Contribution
 
-Finding bugs, sending pull requests or improving our docs - any contribution is welcome and highly appreciated. To get started, head over to our [contribution guidelines](https://github.com/at-ui/at-ui-style/blob/master/CONTRIBUTING.md). Thanks!
+Finding bugs, sending pull requests or improving our docs - any contribution is welcome and highly appreciated. To get started, head over to our [contribution guidelines](https://github.com/hunmar/at-ui-style-flowr/blob/master/CONTRIBUTING.md). Thanks!
 
 ## License
 
 MIT
 
-
-[npm-version-image]: https://img.shields.io/npm/v/at-ui-style.svg?style=flat-square
-[npm-version-url]: https://www.npmjs.com/package/at-ui-style
+[npm-version-image]: https://img.shields.io/npm/v/at-ui-style-flowr.svg?style=flat-square
+[npm-version-url]: https://www.npmjs.com/package/at-ui-style-flowr

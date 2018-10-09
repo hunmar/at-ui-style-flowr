@@ -26,7 +26,7 @@ $brand-blue-100: #d0def8;
 $brand-blue-200: #b0c8f4;
 $brand-blue-300: #90b1ef;
 $brand-blue-400: #79a1eb;
-$brand-blue-500: #6190e8;
+$brand-blue-500: #4765fe;
 $brand-blue-600: #5988e5;
 $brand-blue-700: #4f7de2;
 $brand-blue-800: #4573de;
@@ -125,9 +125,9 @@ $border-radius-base: 4px;
 $border-radius-sm: 4px;
 
 /* Font */
-$font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica,
-  "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial,
-  sans-serif;
+$font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+  Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑",
+  Arial, sans-serif;
 $code-family: Consolas, Menlo, Courier, monospace;
 
 $font-size-smest: 11px;

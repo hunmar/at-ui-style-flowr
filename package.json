@@ -1,7 +1,7 @@
 {
-  "name": "at-ui-style",
-  "version": "1.5.1",
-  "description": "The StyleSheet for AT-UI",
+  "name": "at-ui-style-flowr",
+  "version": "1.5.2",
+  "description": "The StyleSheet for FLOWR based on AT-UI",
   "scss": "src/index.scss",
   "main": "css/at.css",
   "style": "css/at.css",
@@ -17,17 +17,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:o2team/at-ui-style.git"
+    "url": "git@github.com:hunmar/at-ui-style-flowr.git"
   },
   "keywords": [
     "at",
     "at-ui",
     "at-ui-style",
+    "at-ui-style-flowr",
     "css",
     "scss",
     "framework"
   ],
-  "author": "Koppt Ho <kopptsoft@gmail.com>",
+  "author": "Maksim Mialin <maxim@myalin.ru>",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^7.1.1",

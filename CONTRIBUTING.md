@@ -1,5 +1,4 @@
-
-# Contributing to AT-UI-Style
+# Contributing to AT-UI-Style-FLOWR
 
 Thank you for choosing AT-UI. Please take a few moments to review the following guidelines to get you started.
 
@@ -19,7 +18,7 @@ Before submitting an issue, please check if similar questions have already been 
 
 ## Pull requests
 
-**Working on your first Pull Request?** You can learn how from this *free* series
+**Working on your first Pull Request?** You can learn how from this _free_ series
 [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 All pull requests are welcome. Thanks for taking the time to contribute.

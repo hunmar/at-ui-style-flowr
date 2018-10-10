@@ -1,13 +1,12 @@
 {
   "name": "at-ui-style-flowr",
   "version": "1.5.1",
-  "description": "The StyleSheet for AT-UI",
+  "description": "The StyleSheet for FLOWR based on AT-UI",
   "scss": "src/index.scss",
   "main": "css/at.css",
   "style": "css/at.css",
   "scripts": {
-    "build-old": "npm run build-clean && npm run copy && npm run build-scss && npm run build-scss-minify && npm run build-autoprefix",
-    "build": "npm run build-clean && npm run copy && npm run build-scss && npm run build-scss-minify",
+    "build": "npm run build-clean && npm run copy && npm run build-scss && npm run build-scss-minify && npm run build-autoprefix",
     "build-clean": "rimraf css",
     "build-scss": "node-sass --output-style expanded --source-map true src/index.scss css/at.css",
     "build-scss-minify": "node-sass --output-style compressed --source-map true src/index.scss css/at.min.css",
@@ -29,7 +28,7 @@
     "scss",
     "framework"
   ],
-  "author": "Koppt Ho <kopptsoft@gmail.com>",
+  "author": "Maksim Mialin <maxim@myalin.ru>",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^7.1.1",
